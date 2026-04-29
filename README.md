@@ -13,7 +13,7 @@ This project demonstrates real-world mobile automation across multiple Android a
 ▶️ https://youtube.com/your-link
 
 ### ⚙️ Settings Automation
-▶️ https://youtube.com/your-link
+▶️ https://youtu.be/Xq3PsyM4X3g
 
 ### 💬 SMS Automation
 ▶️ https://youtube.com/your-link
