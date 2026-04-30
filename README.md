@@ -1,6 +1,6 @@
-Mobile Automation Portfolio (Appium + Python)
+## Mobile Automation Portfolio (Appium + Python)
 
-This project demonstrates real-world mobile automation across multiple Android apps using Appium.
+This project demonstrates real-world mobile automation across multiple Android apps using Appium and Python.
 
 ---
 
@@ -54,8 +54,8 @@ Each script demonstrates a realistic user scenario:
 
 - Gmail → Compose and send an email
 - Spotify → Search and play a track
-- Settings → Toggle device settings
-- SMS → Send a text message
+- Settings → Toggle device settings (Airplane Mode, Wi-Fi, and BT settings)
+- MMS → Send a text message with an attachment
 
 ## ⚙️ Setup & Execution
 - Prerequisites
