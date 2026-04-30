@@ -10,7 +10,7 @@ This project demonstrates real-world mobile automation across multiple Android a
 ▶️ https://youtu.be/eXY45yOekzM
 
 ### 🎵 Spotify Automation
-▶️ https://youtube.com/your-link
+▶️ https://youtu.be/ZErmfaA6MLk 
 
 ### ⚙️ Settings Automation
 ▶️ https://youtu.be/Xq3PsyM4X3g
