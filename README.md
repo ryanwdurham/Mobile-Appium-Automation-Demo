@@ -15,8 +15,8 @@ This project demonstrates real-world mobile automation across multiple Android a
 ### ⚙️ Settings Automation
 ▶️ https://youtu.be/Xq3PsyM4X3g
 
-### 💬 SMS Automation
-▶️ https://youtube.com/your-link
+### 💬 MMS with Attachment Automation
+▶️ https://youtu.be/zUnpUHd_QcY
 
 ### 🗺️ Google Maps Automation
 ▶️ https://youtu.be/p6MQTpolNY0
